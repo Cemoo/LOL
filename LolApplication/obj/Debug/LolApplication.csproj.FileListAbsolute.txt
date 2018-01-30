@@ -1,0 +1,13 @@
+c:\users\cemal\documents\visual studio 2013\Projects\LolApplication\LolApplication\bin\Debug\LolApplication.exe.config
+c:\users\cemal\documents\visual studio 2013\Projects\LolApplication\LolApplication\bin\Debug\LolApplication.exe
+c:\users\cemal\documents\visual studio 2013\Projects\LolApplication\LolApplication\bin\Debug\LolApplication.pdb
+c:\users\cemal\documents\visual studio 2013\Projects\LolApplication\LolApplication\bin\Debug\Newtonsoft.Json.dll
+c:\users\cemal\documents\visual studio 2013\Projects\LolApplication\LolApplication\bin\Debug\RiotSharp.dll
+c:\users\cemal\documents\visual studio 2013\Projects\LolApplication\LolApplication\bin\Debug\Newtonsoft.Json.xml
+c:\users\cemal\documents\visual studio 2013\Projects\LolApplication\LolApplication\bin\Debug\RiotSharp.xml
+c:\users\cemal\documents\visual studio 2013\Projects\LolApplication\LolApplication\obj\Debug\LolApplication.csprojResolveAssemblyReference.cache
+c:\users\cemal\documents\visual studio 2013\Projects\LolApplication\LolApplication\obj\Debug\LolApplication.Form1.resources
+c:\users\cemal\documents\visual studio 2013\Projects\LolApplication\LolApplication\obj\Debug\LolApplication.Properties.Resources.resources
+c:\users\cemal\documents\visual studio 2013\Projects\LolApplication\LolApplication\obj\Debug\LolApplication.csproj.GenerateResource.Cache
+c:\users\cemal\documents\visual studio 2013\Projects\LolApplication\LolApplication\obj\Debug\LolApplication.exe
+c:\users\cemal\documents\visual studio 2013\Projects\LolApplication\LolApplication\obj\Debug\LolApplication.pdb

@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>RiotSharp</id>
+    <version>2.3.0</version>
+    <title>RiotSharp</title>
+    <authors>BenFradet</authors>
+    <owners>BenFradet</owners>
+    <licenseUrl>https://github.com/BenFradet/RiotSharp/blob/master/LICENSE.md</licenseUrl>
+    <projectUrl>https://github.com/BenFradet/RiotSharp</projectUrl>
+    <iconUrl>https://github.com/BenFradet/RiotSharp/blob/master/logo.png?raw=true</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>C# Wrapper for the Riot Games API</description>
+    <summary>C# wrapper for the Riot Games API.
+
+This product is not endorsed, certified or otherwise approved in any way by Riot Games, Inc. or any of its affiliates.</summary>
+    <releaseNotes>New MatchList endpoint
+New MasterLeague endpoint</releaseNotes>
+    <copyright>Copyright (c) Benjamin Fradet 2013-2015</copyright>
+    <dependencies>
+      <dependency id="Newtonsoft.Json" version="6.0.8" />
+    </dependencies>
+  </metadata>
+</package>
